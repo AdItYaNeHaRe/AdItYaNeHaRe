@@ -12,38 +12,38 @@
 
 ## 👨‍💻 AI Engineer & Data Scientist Specializing in MERN Stack
 
-Transitioning full-stack expertise into production AI/ML engineering. Building scalable web apps integrated with ML models for real-time insights, churn prediction (89% accuracy), and e-learning platforms serving 100+ users.[cite:5][cite:6][cite:9]
+Transitioning full-stack expertise into production AI/ML engineering. Building scalable web apps integrated with ML models for real-time insights, churn prediction (89% accuracy), and e-learning platforms serving 100+ users.
 
-- **Core Expertise**: MERN (MongoDB, Express, React, Node.js) + ML pipelines (Scikit-learn, PyTorch, TensorFlow) deployed via Streamlit/Flask APIs.[web:13]
-- **Impact**: Reduced e-learning page loads by 35% with JWT/Razorpay/Cloudinary; engineered CNN/ViT for computer vision.[cite:9]
-- **Stack Focus**: Data pipelines (Pandas, SQL), MLOps (Docker, Azure), full-stack AI apps (React + ML backends).[cite:10]
+- **Core Expertise**: MERN (MongoDB, Express, React, Node.js) + ML pipelines (Scikit-learn, PyTorch, TensorFlow) deployed via Streamlit/Flask APIs.
+- **Impact**: Reduced e-learning page loads by 35% with JWT/Razorpay/Cloudinary; engineered CNN/ViT for computer vision.
+- **Stack Focus**: Data pipelines (Pandas, SQL), MLOps (Docker, Azure), full-stack AI apps (React + ML backends).
 
 <div align="center">
   [image:1]
 </div>
 
 ## 🚀 Currently Working On
-- Optimizing **production-grade AI-enhanced e-learning platforms** with MERN stack, JWT auth, Razorpay payments, Cloudinary, and integrated ML recommendation engines (100+ monthly users).[cite:9]
-- Building **ML pipelines for customer churn prediction** using Scikit-learn, SQL, Pandas/NumPy EDA, achieving **89% accuracy** with Streamlit dashboards for real-time insights.[cite:6]
+- Optimizing **production-grade AI-enhanced e-learning platforms** with MERN stack, JWT auth, Razorpay payments, Cloudinary, and integrated ML recommendation engines (100+ monthly users).
+- Building **ML pipelines for customer churn prediction** using Scikit-learn, SQL, Pandas/NumPy EDA, achieving **89% accuracy** with Streamlit dashboards for real-time insights.
 
 ## 🤝 Looking to Collaborate On
-- **Full-stack AI web apps** integrating React.js, Node.js/Express, MongoDB, and ML models (PyTorch/TensorFlow) for real-time data insights and scalable Azure deployments.[web:11]
-- **Open-source DS/ML projects**: Computer vision (CNNs, ViT), GenAI apps, and MERN backends with REST APIs for predictive analytics.[cite:3]
+- **Full-stack AI web apps** integrating React.js, Node.js/Express, MongoDB, and ML models (PyTorch/TensorFlow) for real-time data insights and scalable Azure deployments.
+- **Open-source DS/ML projects**: Computer vision (CNNs, ViT), GenAI apps, and MERN backends with REST APIs for predictive analytics.
 
 ## 🆘 Looking for Help With
-- **Advanced MLOps/DevOps**: Docker/Kubernetes containerization, GitHub Actions CI/CD, MLflow tracking, and Azure Pipelines for production ML models.[cite:7]
-- **Deep Learning Optimization**: LSTM/ResNet fine-tuning, advanced feature engineering with Pandas/NumPy, and scalable data pipelines for 1M+ records.[web:13]
+- **Advanced MLOps/DevOps**: Docker/Kubernetes containerization, GitHub Actions CI/CD, MLflow tracking, and Azure Pipelines for production ML models.
+- **Deep Learning Optimization**: LSTM/ResNet fine-tuning, advanced feature engineering with Pandas/NumPy, and scalable data pipelines for 1M+ records.
 
 ## 📚 Currently Learning
-- **Advanced Data Science**: Unsupervised learning (K-Means, PCA), GenAI (LLMs), and MLOps best practices for end-to-end AI engineering.[cite:6]
-- **Modern Full-Stack**: Next.js/Vite for performant UIs, Go for scalable backends, system design for AI-integrated MERN apps.[cite:9]
+- **Advanced Data Science**: Unsupervised learning (K-Means, PCA), GenAI (LLMs), and MLOps best practices for end-to-end AI engineering.
+- **Modern Full-Stack**: Next.js/Vite for performant UIs, Go for scalable backends, system design for AI-integrated MERN apps.
 
 ## 💬 Ask Me About
-- **MERN optimizations** reducing redundancy by 20% or **ML deployments** with 82-89% prediction accuracy on churn/trends.[cite:9]
-- **AI Engineering Transition**: From full-stack dev to ML roles, Hyderabad/Pune resources, resume tips for Naukri/LinkedIn.[cite:5][cite:7]
+- **MERN optimizations** reducing redundancy by 20% or **ML deployments** with 82-89% prediction accuracy on churn/trends.
+- **AI Engineering Transition**: From full-stack dev to ML roles, Hyderabad/Pune resources, resume tips for Naukri/LinkedIn.
 
 ## ⚡ Fun Fact
-Engineered an **AI-powered e-learning platform** that slashed page load times by **35%** while securing payments—because fast, smart learning *sticks* better! 🧠💨[cite:9]
+Engineered an **AI-powered e-learning platform** that slashed page load times by **35%** while securing payments—because fast, smart learning *sticks* better! 🧠💨
 
 <br>
 
@@ -51,8 +51,8 @@ Engineered an **AI-powered e-learning platform** that slashed page load times by
 <div align="center">
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/import_rupesh_nehare_from_2610)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-nehare-210149274/)
-  [![Naukri](https://img.shields.io/badge/Naukri-00A693?style=for-the-badge&logo=naukri&logoColor=white)](https://www.naukri.com/mynetwork?profileId=your-naukri-profile-id) *(Update with your profile)*
-  [![Foundit](https://img.shields.io/badge/Foundit-FF6C00?style=for-the-badge&logo=foundit&logoColor=white)](https://www.foundit.in/profile/your-profile) *(Update with your profile)*
+  [![Naukri](https://img.shields.io/badge/Naukri-00A693?style=for-the-badge&logo=naukri&logoColor=white)](https://www.naukri.com/mnjuser/profile?id=&altresid) *(Update with your profile)*
+  [![Foundit](https://img.shields.io/badge/Foundit-FF6C00?style=for-the-badge&logo=foundit&logoColor=white)](https://www.foundit.in/seeker/profile) *(Update with your profile)*
   [![X](https://img.shields.io/badge/X-%231DA1F2.svg?logo=X&logoColor=white)](https://x.com/@AdityaNeha25343)
   [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityanehare55@gmail.com)
 </div>
@@ -87,20 +87,6 @@ Engineered an **AI-powered e-learning platform** that slashed page load times by
 
 </div>
 
-<br>
-
-## 📊 GitHub Stats
-<div align="center">
-  ![AdItYaNeHaRe's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdItYaNeHaRe&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)[cite:9]
-  <br><br>
-  ![Streak Stats](https://streak-stats.demolab.com?user=AdItYaNeHaRe&theme=dark&hide_border=true)
-  <br><br>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdItYaNeHaRe&theme=dark&hide_border=true&layout=compact&langs_count=8)
-</div>
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=AdItYaNeHaRe&icon=5&color=6" alt="Visitor Count" />
-</div>
 
 ---
 
