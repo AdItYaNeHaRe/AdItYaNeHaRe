@@ -47,12 +47,12 @@ Engineered an **AI-powered e-learning platform** that slashed page load times by
 <div align="center">
   <p>📱 Let's connect! 👋</p>
   <br>
-  [![Instagram](https://www.readmecodegen.com/api/social-icon?name=instagram&animation=pulse&animationDuration=2&showText=true)](https://instagram.com/import_rupesh_nehare_from_2610) &nbsp; 📸
-  [![LinkedIn](https://www.readmecodegen.com/api/social-icon?name=linkedin&animation=glow&animationDuration=2&showText=true)](https://www.linkedin.com/in/aditya-nehare-210149274/) &nbsp; 💼
-  [![Naukri](https://www.readmecodegen.com/api/social-icon?name=linkedin&animation=bounce&animationDuration=1.5&text=Naukri&color=00A693)](https://www.naukri.com/mnjuser/profile?id=&altresid) &nbsp; 💪 *(Update your profile link)*
-  [![Foundit](https://www.readmecodegen.com/api/social-icon?name=linkedin&animation=spin&animationDuration=3&text=Foundit&color=FF6C00)](https://www.foundit.in/seeker/profile) &nbsp; 🔍 *(Update your profile link)*
-  [![X Twitter](https://www.readmecodegen.com/api/social-icon?name=twitter&animation=shake&animationDuration=1&showText=true)](https://x.com/@AdityaNeha25343) &nbsp; 🐦
-  [![Gmail](https://www.readmecodegen.com/api/social-icon?name=gmail&animation=pulse&animationDuration=2.5&showText=true)](mailto:adityanehare55@gmail.com) &nbsp; ✉️
+  [Instagram](https://instagram.com/import_rupesh_nehare_from_2610) &nbsp; 📸
+  [LinkedIn](https://www.linkedin.com/in/aditya-nehare-210149274/) &nbsp; 💼
+  [Naukri](https://www.naukri.com/mnjuser/profile?id=&altresid) &nbsp; 💪 
+  [Foundit](https://www.foundit.in/seeker/profile) &nbsp; 🔍 
+  [X Twitter](https://x.com/@AdityaNeha25343) &nbsp; 🐦
+  [Gmail](mailto:adityanehare55@gmail.com) &nbsp; ✉️
 </div>
 
 <br>
