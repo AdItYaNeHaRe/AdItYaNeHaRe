@@ -4,8 +4,8 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Status-🚀%20Actively%20Building%20AI%20Solutions-black?style=for-the-badge&logo=rocket&logoColor=white" alt="Status Badge" />
-  <img src="https://img.shields.io/badge/Experience-2%2B%20Years%20in%20AI%2FDS%2FMERN-blueviolet?style=for-the-badge&logo=data-science&logoColor=white" alt="Experience Badge" />
-  <img src="https://img.shields.io/badge/Projects-15%2B%20Deployed-green?style=for-the-badge&logo=github&logoColor=white" alt="Projects Badge" />
+  <img src="https://img.shields.io/badge/Experience-1%2B%20Year%20in%20AI%2FDS%2FMERN-blueviolet?style=for-the-badge&logo=data-science&logoColor=white" alt="Experience Badge" />
+  <img src="https://img.shields.io/badge/Projects-22%2B%20Deployed-green?style=for-the-badge&logo=github&logoColor=white" alt="Projects Badge" />
 </div>
 
 <br>
@@ -17,10 +17,6 @@ Transitioning full-stack expertise into production AI/ML engineering. Building s
 - **Core Expertise**: MERN (MongoDB, Express, React, Node.js) + ML pipelines (Scikit-learn, PyTorch, TensorFlow) deployed via Streamlit/Flask APIs.
 - **Impact**: Reduced e-learning page loads by 35% with JWT/Razorpay/Cloudinary; engineered CNN/ViT for computer vision.
 - **Stack Focus**: Data pipelines (Pandas, SQL), MLOps (Docker, Azure), full-stack AI apps (React + ML backends).
-
-<div align="center">
-  [image:1]
-</div>
 
 ## 🚀 Currently Working On
 - Optimizing **production-grade AI-enhanced e-learning platforms** with MERN stack, JWT auth, Razorpay payments, Cloudinary, and integrated ML recommendation engines (100+ monthly users).
@@ -47,14 +43,16 @@ Engineered an **AI-powered e-learning platform** that slashed page load times by
 
 <br>
 
-## 🌐 Connect With Me
+## 🌐 Connect With Me ✨
 <div align="center">
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/import_rupesh_nehare_from_2610)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-nehare-210149274/)
-  [![Naukri](https://img.shields.io/badge/Naukri-00A693?style=for-the-badge&logo=naukri&logoColor=white)](https://www.naukri.com/mnjuser/profile?id=&altresid) *(Update with your profile)*
-  [![Foundit](https://img.shields.io/badge/Foundit-FF6C00?style=for-the-badge&logo=foundit&logoColor=white)](https://www.foundit.in/seeker/profile) *(Update with your profile)*
-  [![X](https://img.shields.io/badge/X-%231DA1F2.svg?logo=X&logoColor=white)](https://x.com/@AdityaNeha25343)
-  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityanehare55@gmail.com)
+  <p>📱 Let's connect! 👋</p>
+  <br>
+  [![Instagram](https://www.readmecodegen.com/api/social-icon?name=instagram&animation=pulse&animationDuration=2&showText=true)](https://instagram.com/import_rupesh_nehare_from_2610) &nbsp; 📸
+  [![LinkedIn](https://www.readmecodegen.com/api/social-icon?name=linkedin&animation=glow&animationDuration=2&showText=true)](https://www.linkedin.com/in/aditya-nehare-210149274/) &nbsp; 💼
+  [![Naukri](https://www.readmecodegen.com/api/social-icon?name=linkedin&animation=bounce&animationDuration=1.5&text=Naukri&color=00A693)](https://www.naukri.com/mnjuser/profile?id=&altresid) &nbsp; 💪 *(Update your profile link)*
+  [![Foundit](https://www.readmecodegen.com/api/social-icon?name=linkedin&animation=spin&animationDuration=3&text=Foundit&color=FF6C00)](https://www.foundit.in/seeker/profile) &nbsp; 🔍 *(Update your profile link)*
+  [![X Twitter](https://www.readmecodegen.com/api/social-icon?name=twitter&animation=shake&animationDuration=1&showText=true)](https://x.com/@AdityaNeha25343) &nbsp; 🐦
+  [![Gmail](https://www.readmecodegen.com/api/social-icon?name=gmail&animation=pulse&animationDuration=2.5&showText=true)](mailto:adityanehare55@gmail.com) &nbsp; ✉️
 </div>
 
 <br>
@@ -87,7 +85,4 @@ Engineered an **AI-powered e-learning platform** that slashed page load times by
 
 </div>
 
-
 ---
-
-**🛠️ Built with ❤️ using GitHub Profile Readme Templates & Shields.io** [web:18][web:20]
